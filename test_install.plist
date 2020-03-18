@@ -7,11 +7,11 @@
 		<dict>
 			<key>assets</key>
 			<array>
-				<dict>
+				<dict>  
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.43.56:3000/__UNI__B2EB1E0_1008172430.ipa</string>
+					<string>https://d.pcs.baidu.com/file/607de1368ne9bd56f360ea47db33ce8d?fid=822617382-250528-368723962005846&rt=pr&sign=FDtAERVCY-DCb740ccc5511e5e8fedcff06b081203-hbr8mqCIbQgwlvddlj56JMjGLC4%3D&expires=8h&chkv=1&chkbd=1&chkpc=et&dp-logid=1793839524095509054&dp-callid=0&dstime=1584490573&r=619964400&vip=0</string>
 				</dict>
 				<dict>
 					<key>kind</key>
